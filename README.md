@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![amarvin's github stats](./profile/stats.svg)
-[![amarvin's github top languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
